@@ -1,7 +1,7 @@
 package com.example.weatherapp.XmlParser;
 
 import java.util.ArrayList;
-/*Name:     ID: */
+/*Name: Sumeiya Juma    ID: */s2110905
 public class WeatherData {
     //variables
     private String date;

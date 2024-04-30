@@ -12,7 +12,7 @@ import java.util.regex.Pattern;
 
 
 /*
-Name: Sumaiya Juma
+Name: Sumeiya Juma
 ID: s2110905
 */
 

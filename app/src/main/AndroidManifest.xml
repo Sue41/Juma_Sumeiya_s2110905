@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-Name: Sumaiya Juma
+Name: Sumeiya Juma
 ID: s2110905
  -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
@@ -26,7 +26,7 @@ ID: s2110905
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCOS8g-FT_cLwfueGgI67aE3T6GUjooFnk" />
+            android:value="" />
 
         <activity
             android:name=".MapsActivity"

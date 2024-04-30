@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Name: Sumaiya Juma
+ID: s2110905
+ -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/glasgow"
+            android:icon="@drawable/loctaion"
+            android:title="Glasgow" />
+        <item
+            android:id="@+id/oman"
+            android:icon="@drawable/loctaion"
+            android:title="Oman" />
+        <item
+            android:id="@+id/london"
+            android:icon="@drawable/loctaion"
+            android:title="London" />
+        <item
+            android:id="@+id/newyork"
+            android:icon="@drawable/loctaion"
+            android:title="New york" />
+        <item
+            android:id="@+id/mauritius"
+            android:icon="@drawable/loctaion"
+            android:title="Mauritius" />
+        <item
+            android:id="@+id/bangladesh"
+            android:icon="@drawable/loctaion"
+            android:title="Bangladesh" />
+    </group>
+</menu>

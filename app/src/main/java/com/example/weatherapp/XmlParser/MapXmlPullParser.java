@@ -1,7 +1,7 @@
 package com.example.weatherapp.XmlParser;
 
 /*
-Name: Sumaiya Juma
+Name: Sumeiya Juma
 ID: s2110905
 */
 
